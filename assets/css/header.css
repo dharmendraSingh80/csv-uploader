@@ -1,0 +1,14 @@
+header {
+  height: 8vh;
+  background: #2196f3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 4%;
+}
+
+header #home {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: white;
+}
