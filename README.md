@@ -26,5 +26,11 @@
 ## Installation
 
 - Simply pull the project files and install all the dependencies provided in package.json file. Once all the packages have installed successfully then go to terminal with correct directory of the project and give the command 'npm start', Project will start to run on local port 8000.
-## Deployed on
+
+## Hosted Link
 https://csv-upload-ds.onrender.com
+
+## Screenshots
+![Screenshot (18)](https://user-images.githubusercontent.com/114590452/218751525-174fad31-724a-4f49-8bf5-2876893fc9c5.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/114590452/218751547-d3e565d8-46a6-4a89-8f4e-9417464dde45.png)
+
